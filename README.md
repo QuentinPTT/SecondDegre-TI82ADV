@@ -44,14 +44,17 @@ Un extremum est une valeur extrême, qui peut correspondre à un minimum ou à u
 
 ## Canonique
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
+Toute fonction polynôme f(x) = ax2 + bx + c  peut s'écrire sous une forme dite canonique qui prend la forme: f(x) = a.(x - α)2 + β
+Cette formule est appelée la forme canonique. Si la factorisation est effectuable, le programme s'en chargera
+
+<img src="https://image.noelshack.com/fichiers/2019/19/2/1557259787-7.png">
 
 
 ## Signes
 
-Bootstrap's documentation, included in this repo in the root directory, is built with [Hugo](https://gohugo.io/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
+Le tableau de signes va comme son nom l'indique, donner les signes de la fonction ainsi que sa variation avec les valeurs correspondantes.
 
-Documentation search is powered by [Algolia's DocSearch](https://community.algolia.com/docsearch/). Working on our search? Be sure to set `debug: true` in `site/static/docs/4.3/assets/js/src/search.js` file.
+<img src="https://image.noelshack.com/fichiers/2019/19/2/1557259621-6.png">
 
 ## Tracer
 
