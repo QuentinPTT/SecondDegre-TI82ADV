@@ -20,17 +20,11 @@
 
 ## Installation
 
-Several quick start options are available:
+Pour accèder à ce programme, il faut:
 
-- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.3.1.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@4.3.1`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:4.3.1`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
-
-Read the [Getting started page](https://getbootstrap.com/docs/4.3/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
-
+- [Télécharger la dernière version.](https://github.com/twbs/bootstrap/archive/v4.3.1.zip)
+- Le transférer vers une calculatrice Ti-82 à l'aide de TI-Connect
+- L'executer dans l'éditeur de programme `bouton PGRM`
 
 ## Discriminant
 
