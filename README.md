@@ -10,10 +10,10 @@
 
 - [Installation](#installation)
 - [Calcul du discriminant](#calcul-du-discriminant)
-- [Calcul de l'extremum](#calcul-de-l'extremum)
+- [Calcul de l'extremum](#calcul-extremum)
 - [Forme canonique](#forme-canonique)
 - [Signes de la parabole](#signes-de-la-parabole)
-- [Tracer la parabole](#tracer-la-courbe)
+- [Tracer la parabole](#tracer-la-parabole)
 - [Changer de points](#changer-de-points)
 - [Copyright et license](#copyright-and-license)
 
@@ -34,7 +34,7 @@ Le discriminant est la valeur nommé delta Δ permettant d'avoir le nombre de so
   - Si Δ = 0, alors l'équation admet une solution réelle double notée x0 = −b / (2a).
 <img src="https://image.noelshack.com/fichiers/2019/19/2/1557258896-3.png">
 
-## Calcul de l'extremum
+## Calcul extremum
 
 Un extremum est une valeur extrême, qui peut correspondre à un minimum ou à un maximum, prise par une valeur sur un intervalle donné.
   - Le maximum d'une fonction "f", définie sur un intervalle I, correspond à une valeur f(a)  ("a" appartenant à I) telle que pour tout nombre "x" de cet intervalle f(x) inférieur ou égal f(a) 
