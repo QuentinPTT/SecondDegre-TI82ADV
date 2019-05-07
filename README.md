@@ -6,22 +6,19 @@
 
 
 
-## Table of contents
+## Sommaire
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- [Installation](#installation)
+- [Calcul du discriminant](#discriminant)
+- [Calcul de l'extremum](#extremum)
+- [Forme canonique](#canonique)
+- [Signes de la parabole](#signes)
+- [Tracer de la parabole](#tracer)
+- [Changer de points](#changer-de-points)
+- [Copyright et license](#copyright-and-license)
 
 
-## Quick start
+## Installation
 
 Several quick start options are available:
 
@@ -35,7 +32,7 @@ Several quick start options are available:
 Read the [Getting started page](https://getbootstrap.com/docs/4.3/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
 
-## Status
+## Discriminant
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com/)
 [![Build Status](https://img.shields.io/travis/twbs/bootstrap/master.svg)](https://travis-ci.org/twbs/bootstrap)
@@ -54,7 +51,7 @@ Read the [Getting started page](https://getbootstrap.com/docs/4.3/getting-starte
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap.svg)](#sponsors)
 
 
-## What's included
+## Extremum
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
@@ -92,18 +89,18 @@ bootstrap/
 We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/).
 
 
-## Bugs and feature requests
+## Canonique
 
 Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
 
 
-## Documentation
+## Signes
 
 Bootstrap's documentation, included in this repo in the root directory, is built with [Hugo](https://gohugo.io/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
 
 Documentation search is powered by [Algolia's DocSearch](https://community.algolia.com/docsearch/). Working on our search? Be sure to set `debug: true` in `site/static/docs/4.3/assets/js/src/search.js` file.
 
-### Running documentation locally
+### Tracer
 
 1. Run `npm install` to install the Node.js dependencies, including Hugo (the site builder).
 2. Run `npm run test` (or a specific npm script) to rebuild distributed CSS and JavaScript files, as well as our docs assets.
@@ -119,7 +116,7 @@ You can find all our previous releases docs on <https://getbootstrap.com/docs/ve
 [Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
 
 
-## Contributing
+## Changer de points
 
 Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
