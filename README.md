@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.utilitywiseprague.com/wp-content/uploads/2014/08/ti-logo.png" alt="logo" width="72" height="72">
+  <img src="http://download.seaicons.com/icons/dtafalonso/android-l/512/Calculator-icon.png" width="200" height="200">
 </p>
 
 <h3 align="center">SECONDX</h3>
