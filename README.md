@@ -32,8 +32,7 @@ Le discriminant est la valeur nommé delta Δ permettant d'avoir le nombre de so
   - Si Δ < 0 alors l' équation ax2 + bx + c = 0 n' admet aucune solution réelle.
   - Si Δ > 0, alors l'équation admet deux solutions réelles notées x1 = (−b − √Δ ) / (2a) et x2 = (−b + √Δ ) / (2a)
   - Si Δ = 0, alors l'équation admet une solution réelle double notée x0 = −b / (2a).
-
-
+<img src="https://image.noelshack.com/fichiers/2019/19/2/1557258896-3.png">
 ## Extremum
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
