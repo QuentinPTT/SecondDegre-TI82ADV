@@ -9,11 +9,11 @@
 ## Sommaire
 
 - [Installation](#installation)
-- [Calcul du discriminant](#discriminant)
-- [Calcul de l'extremum](#extremum)
-- [Forme canonique](#canonique)
-- [Signes de la parabole](#signes)
-- [Tracer de la parabole](#tracer)
+- [Calcul du discriminant](#calcul-du-discriminant)
+- [Calcul de l'extremum](#calcul-de-l'extremum)
+- [Forme canonique](#forme-canonique)
+- [Signes de la parabole](#signes-de-la-parabole)
+- [Tracer la parabole](#tracer-la-courbe)
 - [Changer de points](#changer-de-points)
 - [Copyright et license](#copyright-and-license)
 
@@ -26,7 +26,7 @@ Pour accèder à ce programme, il faut:
 - Le transférer vers une calculatrice Ti-82 à l'aide de TI-Connect
 - L'executer dans l'éditeur de programme `bouton PGRM`
 
-## Discriminant
+## Calcul du discriminant
 
 Le discriminant est la valeur nommé delta Δ permettant d'avoir le nombre de solutions pour une équation du second degré. Il est obtenue par `b²-4ac` 
   - Si Δ < 0 alors l' équation ax2 + bx + c = 0 n' admet aucune solution réelle.
@@ -34,7 +34,7 @@ Le discriminant est la valeur nommé delta Δ permettant d'avoir le nombre de so
   - Si Δ = 0, alors l'équation admet une solution réelle double notée x0 = −b / (2a).
 <img src="https://image.noelshack.com/fichiers/2019/19/2/1557258896-3.png">
 
-## Extremum
+## Calcul de l'extremum
 
 Un extremum est une valeur extrême, qui peut correspondre à un minimum ou à un maximum, prise par une valeur sur un intervalle donné.
   - Le maximum d'une fonction "f", définie sur un intervalle I, correspond à une valeur f(a)  ("a" appartenant à I) telle que pour tout nombre "x" de cet intervalle f(x) inférieur ou égal f(a) 
@@ -42,7 +42,7 @@ Un extremum est une valeur extrême, qui peut correspondre à un minimum ou à u
   - Le minimum d'une fonction "f" définie sur un intervalle I correspond à une valeur f(b), ("b" appartenant à I) telle que pour tout nombre "x" de cet intervalle f(x) supérieur ou égal f(a)
 <img src="https://image.noelshack.com/fichiers/2019/19/2/1557259153-4.png">
 
-## Canonique
+## Forme canonique
 
 Toute fonction polynôme f(x) = ax2 + bx + c  peut s'écrire sous une forme dite canonique qui prend la forme: f(x) = a.(x - α)2 + β
 Cette formule est appelée la forme canonique. Si la factorisation est effectuable, le programme s'en chargera
@@ -50,13 +50,13 @@ Cette formule est appelée la forme canonique. Si la factorisation est effectuab
 <img src="https://image.noelshack.com/fichiers/2019/19/2/1557259787-7.png">
 
 
-## Signes
+## Signes de la parabole
 
 Le tableau de signes va comme son nom l'indique, donner les signes de la fonction ainsi que sa variation avec les valeurs correspondantes.
 
 <img src="https://image.noelshack.com/fichiers/2019/19/2/1557259621-6.png">
 
-## Tracer
+## Tracer la parabole
 
 Cette option permet tout simplement de tracer la fonction rentrée au préalable.
 
