@@ -55,7 +55,8 @@ Documentation search is powered by [Algolia's DocSearch](https://community.algol
 
 ## Tracer
 
-Cette option permet tout simplement de tracer la fonction rentrée au préalable
+Cette option permet tout simplement de tracer la fonction rentrée au préalable.
+
 <img src="https://image.noelshack.com/fichiers/2019/19/2/1557259322-5.png">
 
 ## Changer de points
