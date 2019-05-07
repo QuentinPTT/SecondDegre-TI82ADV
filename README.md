@@ -36,41 +36,11 @@ Le discriminant est la valeur nommé delta Δ permettant d'avoir le nombre de so
 
 ## Extremum
 
-Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+Un extremum est une valeur extrême, qui peut correspondre à un minimum ou à un maximum, prise par une valeur sur un intervalle donné.
+  - Le maximum d'une fonction "f", définie sur un intervalle I, correspond à une valeur f(a)  ("a" appartenant à I) telle que pour tout nombre "x" de cet intervalle f(x) inférieur ou égal f(a) 
 
-```text
-bootstrap/
-└── dist/
-    ├── css/
-    │   ├── bootstrap-grid.css
-    │   ├── bootstrap-grid.css.map
-    │   ├── bootstrap-grid.min.css
-    │   ├── bootstrap-grid.min.css.map
-    │   ├── bootstrap-reboot.css
-    │   ├── bootstrap-reboot.css.map
-    │   ├── bootstrap-reboot.min.css
-    │   ├── bootstrap-reboot.min.css.map
-    │   ├── bootstrap.css
-    │   ├── bootstrap.css.map
-    │   ├── bootstrap.min.css
-    │   └── bootstrap.min.css.map
-    └── js/
-        ├── bootstrap.bundle.js
-        ├── bootstrap.bundle.js.map
-        ├── bootstrap.bundle.min.js
-        ├── bootstrap.bundle.min.js.map
-        ├── bootstrap.esm.js
-        ├── bootstrap.esm.js.map
-        ├── bootstrap.esm.min.js
-        ├── bootstrap.esm.min.js.map
-        ├── bootstrap.js
-        ├── bootstrap.js.map
-        ├── bootstrap.min.js
-        └── bootstrap.min.js.map
-```
-
-We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/).
-
+  - Le minimum d'une fonction "f" définie sur un intervalle I correspond à une valeur f(b), ("b" appartenant à I) telle que pour tout nombre "x" de cet intervalle f(x) supérieur ou égal f(a)
+<img src="https://image.noelshack.com/fichiers/2019/19/2/1557259153-4.png">
 
 ## Canonique
 
