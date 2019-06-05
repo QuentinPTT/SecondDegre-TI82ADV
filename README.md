@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://image.noelshack.com/fichiers/2019/23/3/1559733374-py-slxbpxbj3a.png">
 </p>
-<h3 align="center">SECONDX</h3>
+<h3 align="center">OptimiserRIP</h3>
 
 
 
