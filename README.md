@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.noelshack.com/fichiers/2019/30/5/1564132876-wabbitemu-zp4qwjkjbv.png">
+  <img src="https://image.noelshack.com/fichiers/2019/30/5/1564132992-wabbitemu-odkugk6qrd.png">
 </p>
 <h3 align="center">BINOMIAL</h3>
 
