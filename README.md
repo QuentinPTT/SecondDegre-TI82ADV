@@ -37,7 +37,7 @@ La loi binomiale modélise le nombre de succès obtenus lors de la répétition 
 La variance est une mesure de la dispersion des valeurs d'un échantillon ou d'une distribution de probabilité. 
 - Elle exprime la moyenne des carrés des écarts à la moyenne.
 - Elle se trouve tel que: V = N*P(1-P)
-<img src="https://image.noelshack.com/fichiers/2019/30/5/1564132992-wabbitemu-odkugk6qrd.png">
+<img src="https://image.noelshack.com/fichiers/2019/30/5/1564133442-qbifmx8fcb.png">
 
 ## Espérance
 
