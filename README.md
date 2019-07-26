@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://image.noelshack.com/fichiers/2019/19/2/1557255929-1.png">
+  <img src="https://image.noelshack.com/fichiers/2019/30/5/1564132876-wabbitemu-zp4qwjkjbv.png">
 </p>
-<h3 align="center">SECONDX</h3>
+<h3 align="center">BINOMIAL</h3>
 
 
 
