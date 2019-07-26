@@ -28,11 +28,9 @@ Pour accèder à ce programme, il faut:
 
 ## Loi binomiale
 
-Le discriminant est la valeur nommé delta Δ permettant d'avoir le nombre de solutions pour une équation du second degré. Il est obtenue par `b²-4ac` 
-  - Si Δ < 0 alors l' équation ax2 + bx + c = 0 n' admet aucune solution réelle.
-  - Si Δ > 0, alors l'équation admet deux solutions réelles notées x1 = (−b − √Δ ) / (2a) et x2 = (−b + √Δ ) / (2a)
-  - Si Δ = 0, alors l'équation admet une solution réelle double notée x0 = −b / (2a).
-<img src="https://image.noelshack.com/fichiers/2019/19/2/1557258896-3.png">
+La loi binomiale modélise le nombre de succès obtenus lors de la répétition indépendante de plusieurs expériences aléatoires identiques.
+ - P(X=K) = (N-P)*P^K*(1-P)^(N-K)
+ <img src="https://image.noelshack.com/fichiers/2019/30/5/1564134172-rwhrcgl4k2.png">
 
 ## Variance
 
