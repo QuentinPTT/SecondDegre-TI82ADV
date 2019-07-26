@@ -54,6 +54,8 @@ Le tableau de signes va comme son nom l'indique, donner les signes de la fonctio
 
 Cette option permet tout simplement de tracer la fonction rentrée au préalable.
 
+<img src="https://image.noelshack.com/fichiers/2019/19/2/1557259322-5.png">
+
 ## Changer de points
 
 Le changement de point permet de retourner au point de départ du programme et ainsi modifier les valeurs de A,B et C.
