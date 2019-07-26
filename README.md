@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="https://image.noelshack.com/fichiers/2019/19/2/1557255929-1.png">
+</p>
+<h3 align="center">SECONDX</h3>
+
+## Sommaire
 
 - [Installation](#installation)
 - [Calcul du discriminant](#calcul-du-discriminant)
