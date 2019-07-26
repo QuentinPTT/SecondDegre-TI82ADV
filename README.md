@@ -17,6 +17,7 @@
 ## Installation
 
 Pour accèder à ce programme, il faut:
+- [Télécharger la dernière version.](https://github.com/twbs/bootstrap/archive/v4.3.1.zip)
 - Le transférer vers une calculatrice Ti-82 à l'aide de TI-Connect
 - L'executer dans l'éditeur de programme `bouton PGRM`
 
