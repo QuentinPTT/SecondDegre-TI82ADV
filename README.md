@@ -56,7 +56,7 @@ Cette option permet tout simplement de tracer la fonction rentrée au préalable
 
 Le changement de point permet de retourner au point de départ du programme et ainsi modifier les valeurs de A,B et C.
 
-<img src="img/valeurs">
+<img src="img/valeurs.png">
 
 ## Copyright and license
 
