@@ -1,7 +1,7 @@
 <p align="center">
     <img src="img/menu.png">
 </p>
-<h3 align="center">SECONDX</h3>
+<h3 align="center">Second Degré</h3>
 
 ## Sommaire
 
